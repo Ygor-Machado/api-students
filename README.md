@@ -18,7 +18,7 @@ Clone o arquivo .env e coloque o nome e a senha do seu banco de dados para rodar
 ```sh
  cp .env.example .env
  ```
-Depois de rode as migrations e inicie o servidor 
+Depois rode as migrations e inicie o servidor 
 ```sh
 php artisan migrate
 php artisan serve
